@@ -1,3 +1,5 @@
+<h1> Hi, I am Obada </h1>
+<br/>
 Immersed in web development through various freelance projects, I’ve led the creation of several applications using technologies like React, Node.js, MongoDB, Firestore, Express.js, Tailwind, and more. My projects, including an AI-powered article summarizer and a full-stack punch-in application, used at Pouletto Restuarant to streamline operations. <br/>
  <br/>
 Currently seeking a Software Developer role, ideally in a product-focused team environment where I can contribute significantly to achieve our goals and innovate the space. <br/>
